@@ -1,0 +1,30 @@
+Find the smallest number in an array 
+Find the largest number in an array 
+Second Smallest and Second Largest element in an array 
+Reverse a given array
+
+
+Merge Sort Algorithm
+
+
+
+Check if a given string is palindrome or not
+Count number of vowels, consonants, spaces in String
+Find the ASCII value of a character
+Remove all vowels from the string
+Remove spaces from a string
+Remove characters from a string except alphabets
+
+
+Check if a number is palindrome or not
+Find all Palindrome numbers in a given range
+Check if a number is prime or not
+Check if a number is armstrong number or not
+Check if a number is perfect number
+
+linkedlist
+
+
+Write a C program to create,
+initialize and use pointers.
+Write a C program to add two numbers using pointers. 
