@@ -16,7 +16,7 @@ Remove spaces from a string
 Remove characters from a string except alphabets
 
 
-Check if a number is palindrome or not
+Check if a number is palindrome or not   
 Find all Palindrome numbers in a given range
 Check if a number is prime or not
 Check if a number is armstrong number or not
@@ -25,6 +25,5 @@ Check if a number is perfect number
 linkedlist //////
 
 
-Write a C program to create,
-initialize and use pointers.
-Write a C program to add two numbers using pointers. 
+Write a C program to create, initialize and use pointers. //
+Write a C program to add two numbers using pointers. //
